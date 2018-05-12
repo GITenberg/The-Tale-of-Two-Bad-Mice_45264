@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
 description: While the dolls are away two naughty, curious mice explore the doll's
   house and steal their furniture.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45264#The-Tale-of-Two-Bad-Mice
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
