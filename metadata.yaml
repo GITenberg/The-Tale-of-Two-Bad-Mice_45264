@@ -1,0 +1,34 @@
+_repo: The-Tale-of-Two-Bad-Mice_45264
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45264-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: While the dolls are away two naughty, curious mice explore the doll's
+  house and steal their furniture.
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Dollhouses -- Juvenile fiction'
+title: The Tale of Two Bad Mice
+url: http://www.gutenberg.org/ebooks/45264
